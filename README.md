@@ -1,0 +1,1 @@
+1. It should take in a word and return a true or false

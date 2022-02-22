@@ -6708,11 +6708,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\William\\Desktop\\Palindromes\\Palindromes.Test\\Palindromes.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\William\\Desktop\\Palindromes.Solution\\Palindromes.Test\\Palindromes.Tests.csproj",
       "projectName": "Palindromes.Tests",
-      "projectPath": "C:\\Users\\William\\Desktop\\Palindromes\\Palindromes.Test\\Palindromes.Tests.csproj",
+      "projectPath": "C:\\Users\\William\\Desktop\\Palindromes.Solution\\Palindromes.Test\\Palindromes.Tests.csproj",
       "packagesPath": "C:\\Users\\William\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\William\\Desktop\\Palindromes\\Palindromes.Test\\obj\\",
+      "outputPath": "C:\\Users\\William\\Desktop\\Palindromes.Solution\\Palindromes.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\William\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -6727,8 +6727,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\William\\Desktop\\Palindromes\\Palindrome\\File.csproj": {
-              "projectPath": "C:\\Users\\William\\Desktop\\Palindromes\\Palindrome\\File.csproj"
+            "C:\\Users\\William\\Desktop\\Palindromes.Solution\\Palindrome\\File.csproj": {
+              "projectPath": "C:\\Users\\William\\Desktop\\Palindromes.Solution\\Palindrome\\File.csproj"
             }
           }
         }
